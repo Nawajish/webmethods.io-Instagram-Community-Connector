@@ -43,7 +43,7 @@ To test, you can execute `wmio test`.
 
 Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And `wmio unpublish` to unpublish the published connector app along with triggers and actions associated with the app.
 
-![Screenshot of Instagram Connector in webmethods.io tenant](Instagram Connector.png)
+![Instagram Connector](https://user-images.githubusercontent.com/16189220/74305408-d8b5be80-4d85-11ea-8095-60e0b08e8a92.png)
 
 ## Built With
 Node v8.14.0
