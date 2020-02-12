@@ -10,78 +10,41 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-This connector requires any Node version between 4.x.x and 8 .14.
+This connector requires any [Node](https://nodejs.org/dist/) version between 4.x.x and 8 .14.
 Note: If you have installed any other Node version on your system, you can:
 1. Use tools to switch between different versions of Node
-  a. For Windows, use [nvm-windows](https://github.com/coreybutler/nvm-windows#installation--upgrades).
-  b. For Mac, use [homebrew](https://brew.sh/)
+
+  - For Windows, use [nvm-windows](https://github.com/coreybutler/nvm-windows#installation--upgrades).
+  
+  - For Mac, use [homebrew](https://brew.sh/).
 2. Build your app using your existing Node version and then transpile your code using a transpiler like [Babel](https://babeljs.io/).
 
-```
-Give examples
-```
+
+Also, to use this connector. you must have [wmiocli](https://docs.webmethods.io/integration/developer_guide/connector_builder/#gsc.tab=0), webmethod.io's iPaaS Connector Builder CLI installed.
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+1. Clone the repo `git clone https://github.com/Nawajish/webmethods.io-Instagram-Community-Connector.git`.
+2. Run `npm install -g @webmethodsio/wmioclinpm install -g @webmethodsio/wmiocli`.
+3. Login to your webmethods.io tenant using `wmio login`.
+4. Execute `wmio init` to get started.
+5. Finally, execute `wmio deploy` to deploy this connector to your tenant.
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Once deployed, it’ll be automatically registered with webMethods.io Integration and will be available to you locally in the Connectors panel under the Services tab.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+To test, you can execute `wmio test`.
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And `wmio unpublish` to unpublish the published connector app along with triggers and actions associated with the app.
 
 ## Built With
+Node 8.14.0
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## Contributors
+See all contributors [here](https://github.com/Nawajish/webmethods.io-Instagram-Community-Connector/settings/access)
 
 ## License
 
@@ -89,8 +52,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Srikanth Prathipati, Developer, Cloud Technologies, SoftwareAg
 
 
