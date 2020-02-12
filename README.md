@@ -42,7 +42,7 @@ To test, you can execute `wmio test`.
 Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And `wmio unpublish` to unpublish the published connector app along with triggers and actions associated with the app.
 
 ## Built With
-Node 8.14.0
+Node v8.14.0
 
 ## Contributors
 See all contributors [here](https://github.com/Nawajish/webmethods.io-Instagram-Community-Connector/settings/access)
