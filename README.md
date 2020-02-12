@@ -53,8 +53,8 @@ Node v8.14.0
 
 ## Contributors
 
-[Anshuman Saikia](https://github.com/anshu96788)
-[Dipankar Dutta](https://github.com/DipankarDDUT)
+[Anshuman Saikia](https://github.com/anshu96788) |
+[Dipankar Dutta](https://github.com/DipankarDDUT) |
 [Nawajish Laskar](https://github.com/Nawajish)
 
 ## License
