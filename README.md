@@ -1,8 +1,11 @@
 # webmethods.io-Instagram-Community-Connector
-This is a simple Instagram connector that connects to and queries the Instagram Basic Display API. The following actions are supported:
+This is a simple Instagram connector that connects to and queries the [Instagram Basic Display API](https://developers.facebook.com/docs/instagram-basic-display-api). The following actions are supported:
 1. Get information about the owner of the access_token.
 2. Get the most recent media published by the owner of the access_token.
 3. Get a list of recent comments on your media object.
+
+
+Learn more [here](https://www.instagram.com/developer/endpoints/)
 
 ## Getting Started
 
