@@ -49,7 +49,7 @@ Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And
 ![Instagram Connector](https://user-images.githubusercontent.com/16189220/74305408-d8b5be80-4d85-11ea-8095-60e0b08e8a92.png)
 
 ## Built With
-Node v8.14.0
+Node v8.14.0 and [wmiocli](https://docs.webmethods.io/integration/developer_guide/connector_builder/#gsc.tab=0), webmethod.io's iPaaS Connector Builder CLI.
 
 ## Contributors
 
