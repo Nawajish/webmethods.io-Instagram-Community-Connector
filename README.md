@@ -52,7 +52,8 @@ Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And
 Node v8.14.0
 
 ## Contributors
-See all contributors [here](https://github.com/Nawajish/webmethods.io-Instagram-Community-Connector/settings/access)
+
+[Nawajish](https://github.com/Nawajish)
 
 ## License
 
