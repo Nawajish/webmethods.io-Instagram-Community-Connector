@@ -33,6 +33,8 @@ Also, to use this connector. you must have [wmiocli](https://docs.webmethods.io/
 
 Once deployed, it’ll be automatically registered with webMethods.io Integration and will be available to you locally in the Connectors panel under the Services tab.
 
+
+
 ## Running the tests
 
 To test, you can execute `wmio test`.
@@ -40,6 +42,8 @@ To test, you can execute `wmio test`.
 ## Deployment
 
 Execute `wmio deploy` to deploy this connector to your webmethods.io tenant. And `wmio unpublish` to unpublish the published connector app along with triggers and actions associated with the app.
+
+![Screenshot of Instagram Connector in webmethods.io tenant](Instagram Connector.png)
 
 ## Built With
 Node v8.14.0
