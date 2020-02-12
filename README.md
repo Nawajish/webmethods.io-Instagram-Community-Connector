@@ -5,7 +5,7 @@ This is a simple Instagram connector that connects to and queries the [Instagram
 3. Get a list of recent comments on your media object.
 
 
-Learn more [here](https://www.instagram.com/developer/endpoints/)
+Learn more about the endpoints [here](https://www.instagram.com/developer/endpoints/).
 
 ## Getting Started
 
