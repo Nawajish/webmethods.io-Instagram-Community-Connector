@@ -63,6 +63,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [Srikanth Prathipati](https://github.com/yuvanmytri), Developer, Cloud Technologies, SoftwareAg
+[Srikanth Prathipati](https://github.com/yuvanmytri), Developer, Cloud Technologies, SoftwareAg
 
 
