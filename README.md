@@ -61,8 +61,5 @@ Node v8.14.0 and [wmiocli](https://docs.webmethods.io/integration/developer_guid
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/SoftwareAG/webmethods-microservicesruntime-samples/blob/master/LICENSE) file for details
 
-## Acknowledgments
-
-[Srikanth Prathipati](https://github.com/yuvanmytri), Developer, Cloud Technologies, SoftwareAg
 
 
